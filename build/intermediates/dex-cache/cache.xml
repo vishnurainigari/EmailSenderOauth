@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/vishnurainigari/Desktop/EmailSenderOauth/app/libs/mail.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="428e267abff0d10802ccde86b915da2c20471160">
+        <dex dex="/Users/vishnurainigari/Desktop/EmailSenderOauth/app/build/intermediates/pre-dexed/debug/mail-6cf90620f6769695d87223dbcbca8fe676e9b485.jar" />
+    </item>
+    <item
+        jar="/Users/vishnurainigari/Desktop/EmailSenderOauth/app/libs/activation.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="d1257cbff6faa44c1f325ae0d9413522d4644383">
+        <dex dex="/Users/vishnurainigari/Desktop/EmailSenderOauth/app/build/intermediates/pre-dexed/debug/activation-eb9c27f3ea25e3a4da8e22bfbfe7155898469684.jar" />
+    </item>
+    <item
+        jar="/Users/vishnurainigari/Desktop/EmailSenderOauth/app/libs/additionnal.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="bd9e8dc422bb8c8405359947fe9f4282b49f57f4">
+        <dex dex="/Users/vishnurainigari/Desktop/EmailSenderOauth/app/build/intermediates/pre-dexed/debug/additionnal-8f67bfdc5eec51e937d618d6d250bdd685fdad77.jar" />
+    </item>
+
+</items>
